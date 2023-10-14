@@ -1,0 +1,18 @@
+
+connectedCallback
+static get observedAttributes
+attributeChangedCallback
+customElements.define
+this.attachShadow
+constructor() {}
+connectedCallback(){}
+render(){}
+mount()
+addListeners()
+onButtonClicked()
+async - await
+fetch()
+array.concat()
+cadena.split()
+const something = this.ownerDocument.createElement('div');
+        this.shadowRoot?.appendChild(something);
